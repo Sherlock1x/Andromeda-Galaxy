@@ -1,3 +1,11 @@
+
+#NERO Architecture.py
+
+#https://github.com/techwithtim/AutomateFinancesWithPython/blob/main/main.py
+
+#https://github.com/techwithtim/AutomateFinancesWithPython/blob/main/requirements.txt
+
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -143,4 +151,7 @@ main()
 
 #python -m streamlit run AutomaticFinanceswithPythonmain.py
  
+#You can now view your Streamlit app in your browser.
 
+  #Local URL: http://localhost:8501
+  #Network URL: http://192.168.0.23:8501
