@@ -47,3 +47,11 @@ Date,Details,Amount,Currency,Debit/Credit,Settled
 31-Jul-25,YTDPay,11438,AED,Credit,SETTLED
 31-Jul-25,Balance,1485076,AED,Credit,SETTLED
 31-Jul-25,Balance,41400000,AED,Credit,SETTLED
+4-Aug-25,Eversource,95.35,AED,Debit,SETTLED
+4-Aug-25,Evergas,23.18,AED,Debit,SETTLED
+7-Aug-25,Riverbank,20,AED,Debit,SETTLED
+8-Aug-25,Tmoble,423.43,AED,Debit,SETTLED
+8-Aug-25,Geico,283,AED,Debit,SETTLED
+31-Aug-25,MTDPay,845,AED,Credit,SETTLED
+31-Aug-25,YTDPay,12283,AED,Credit,SETTLED
+31-Aug-25,Balance,42884231,AED,Credit,SETTLED
